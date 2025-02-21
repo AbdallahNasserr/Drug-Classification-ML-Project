@@ -10,3 +10,22 @@ This repository contains a **Machine Learning Drug Classification** project, whi
 
 ## 📂 Repository Structure  
 
+
+## 🏗️ Implementation  
+
+1️⃣ **Data Preprocessing**  
+   - Handled missing values and encoded categorical features.  
+   - Scaled numerical features for better model performance.  
+
+2️⃣ **Model Training & Evaluation**  
+   - Trained multiple ML models and evaluated them using accuracy, precision, and recall.  
+   - Used GridSearchCV for hyperparameter tuning.  
+
+3️⃣ **Deployment**  
+   - Built a **Streamlit web app** for user-friendly drug classification.  
+   - Deployed the model for real-time predictions.  
+   - [Kaggle Deployment Notebook](https://www.kaggle.com/code/abdallahprogrammer/drug-classification-ml-project-deployment)  
+
+## 📌 Links
+📊 [Kaggle Project Notebook](https://www.kaggle.com/code/abdallahprogrammer/drug-classification-ml-project-deployment) 
+🌍 [Kaggle Deployment Notebook](https://www.kaggle.com/code/abdallahprogrammer/drug-classification-ml-project-deployment)  
